@@ -37,7 +37,7 @@ Add badges from shields.io to represent project status, build status, or other m
 Provide examples of how to use the project. Include simple code examples or commands that can be executed to demonstrate the project's functionality.
 
 ## Support
-For support, please open an issue in the project repository or contact the project maintainers at [email@example.com](mailto:email@example.com).
+For support, please open an issue in the project repository or contact the project maintainers at [yangzhangnz92@gmail.com](mailto:yangzhangnz92@gmail.com).
 
 ## Roadmap
 Discuss any upcoming enhancements or features planned for future releases.
