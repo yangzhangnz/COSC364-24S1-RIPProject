@@ -22,6 +22,7 @@ Add badges from shields.io to represent project status, build status, or other m
 1. Clone the project repository:
    ```bash
    git clone https://eng-git.canterbury.ac.nz/yzh365/ripproject.git
+   git clone https://github.com/yangzhangnz/COSC364-RIP-Project.git
    ```
 2. Navigate to the project directory:
    ```bash
