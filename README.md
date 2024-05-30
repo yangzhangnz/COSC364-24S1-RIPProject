@@ -54,7 +54,7 @@ Please follow these steps:
 5. Open a Pull Request
 
 ## Authors and Acknowledgment
-Thank you to all the contributors who have invested their time in extending and improving this project. Special thanks to (mentor/supervisor's name) for guidance and support.
+Yang ZHANG
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
