@@ -56,9 +56,6 @@ Please follow these steps:
 ## Authors and Acknowledgment
 Yang ZHANG
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Project Status
 (Update this section based on the current status of the project. Indicate whether the project is active, maintained, or if development has halted.)
 
